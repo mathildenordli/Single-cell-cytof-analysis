@@ -17,9 +17,9 @@ This folder contains all the code related to the decision tree models used in th
 
 ## DeepSet folder
 
-This folder contains all the code related to the DeepSet models used in the thesis. It includes:
-* The initial run of DeepSet models
-* Simpler DeepSet models with fewer parameters
+This folder contains all the code related to the Deep Sets models used in the thesis. It includes:
+* The initial run of Deep Sets models
+* Simpler Deep Sets models with fewer parameters
 
 ## Clustering folder
 Includes:
