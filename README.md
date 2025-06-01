@@ -15,7 +15,7 @@ This folder contains all the code related to the decision tree models used in th
 * Binary decision trees for classification between two groups at a time
 * The process of selecting and evaluating the final, simplified decision tree
 
-## DeepSet folder
+## DeepSet Models folder
 
 This folder contains all the code related to the Deep Sets models used in the thesis. It includes:
 * The initial run of Deep Sets models
